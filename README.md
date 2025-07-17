@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain Developer
 --------------------
 
-nthusiastic about the decentralized future! I'm a blockchain developer dedicated to crafting and deploying robust smart contracts. With 2 years of coding under my belt, I'm constantly expanding my knowledge and skills in the Web3 space.
+Enthusiastic about the decentralized future! I'm a blockchain developer dedicated to crafting and deploying robust smart contracts. With 2 years of coding under my belt, I'm constantly expanding my knowledge and skills in the Web3 space.
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [abhayshambharkar231@gmail.com](mailto:abhayshambharkar231@gmail.com)
