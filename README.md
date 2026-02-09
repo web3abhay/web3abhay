@@ -10,7 +10,7 @@ Enthusiastic about the decentralized future! I'm a blockchain developer dedicate
 * ✉️  You can contact me at [abhayshambharkar231@gmail.com](mailto:abhayshambharkar231@gmail.com)
 * 🧠  I'm learning rust
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  i'm secretly Cristiano but you can tell everyone
+  
 
 ### Skills
 
